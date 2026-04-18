@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mv \"a - RAW/data/spiff data2.csv\" \"data/spiff_data2.csv\")",
+      "Bash(mv \"a - RAW/docs/FTSlecturenotes.pdf\" \"docs/FTSlecturenotes.pdf\")",
+      "Bash(mv \"a - RAW/docs/Project Financial Timeseries 2526.pdf\" \"docs/Project Financial Timeseries 2526.pdf\")",
+      "Bash(xxd \"C:\\\\Users\\\\albin\\\\Desktop\\\\Everything\\\\School\\\\Finansmatte\\\\Tidsserier\\\\Projekt\\\\time-series-analysis-Spiff\\\\docs\\\\FTSlecturenotes.pdf\")",
+      "Read(//c/tmp/**)",
+      "Read(//c/Users/albin/AppData/Local/Temp/fts_notes/**)",
+      "Read(//c//**)"
+    ]
+  }
+}
